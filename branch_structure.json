@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1969-make-voiceconfirmmodal-keyboard-and-screen",
+    "fix/issue-1980-cover-the-states-of-presencecursoroverlay",
+    "main",
+    "origin",
+    "security/issue-1972-cover-security-with-unit-tests"
+  ],
+  "parent": {
+    "fix/issue-1969-make-voiceconfirmmodal-keyboard-and-screen": "main",
+    "fix/issue-1980-cover-the-states-of-presencecursoroverlay": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-1972-cover-security-with-unit-tests": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1969-make-voiceconfirmmodal-keyboard-and-screen",
+    "fix/issue-1980-cover-the-states-of-presencecursoroverlay",
+    "origin",
+    "security/issue-1972-cover-security-with-unit-tests"
+  ]
+}
